@@ -1,4 +1,0 @@
-Functional Requirement:
-
-
-Non functional Requirement 
