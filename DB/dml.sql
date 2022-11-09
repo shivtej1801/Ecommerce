@@ -1,1 +1,1 @@
-insert,delete,update from 
+insert,delete,update from database
